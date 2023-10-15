@@ -6,7 +6,9 @@ Two blocks of code:
       *  a single code is precede by a comment: the name of the challenge.
 2. Homework 1, question 2
    * a sub-block of code for each algorithm; preceded by its name.
-     
-The pdf file of the HackerRank challenges is attached under the name 'submissions_mei'\
-The third question of the Homework is loaded in a pdf file named 'aws_grades_mei'.
+
+Is decleared, whenever it occured, if an online solution has been checked, in order to learn from my errors. \
+The pdf file of the HackerRank challenges is attached under the name 'Submissions _ HackerRank'.\
+
+* The third question of the Homework is loaded in a pdf file named 'aws_grades_mei'.
 
